@@ -1,0 +1,26 @@
+[
+  {
+  "name": "Peter Cowach",
+  "theme": "Java",
+  "location": "Canada",
+  "time": "2021-09-12T18:30:00"
+},
+{
+  "name": "Alek Bower",
+  "theme": "C++",
+  "location": "Jamaika",
+  "time": "2021-09-13T14:00:00"
+},
+{
+  "name": "Liz Dorosh",
+  "theme": "Swing and Data Sience",
+  "location": "France",
+  "time": "2021-09-14T19:25:00"
+},
+{
+  "name": "Slavik Kalichev",
+  "theme": "Pyton in a Cache",
+  "location": "Poland",
+  "time": "2021-09-15T18:30:00"
+}
+]
